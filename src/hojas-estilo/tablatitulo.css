@@ -1,0 +1,38 @@
+.titulofila{
+  background: #24398D;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #FFFFFF;
+
+  box-sizing: border-box;
+  border: 1px solid #0077BC;
+}
+
+.subtitulofilas{
+  background: #0077BC;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 26px;
+
+  color: #FFFFFF;
+
+  box-sizing: border-box;
+  border: 1px solid #0077BC;
+}
+
+.contenidotablatitulo{
+  box-sizing: border-box;
+  background: #FFFFFF;
+  border: 1px solid #DBDBDB;
+}
+
+tr, td{
+  box-sizing: border-box;
+  border: 1px solid #DBDBDB;
+}

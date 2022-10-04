@@ -1,0 +1,22 @@
+.titulosfilas{
+  background: #24398D;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 26px;
+  color: #FFFFFF;
+}
+
+.contenidotabla{
+  box-sizing: border-box;
+  background: #FFFFFF;
+  border: 1px solid #DBDBDB;
+}
+
+.contenidotablas{
+  box-sizing: border-box;
+  background: #FFFFFF;
+  border: 1px solid #DBDBDB;
+}

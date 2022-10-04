@@ -1,0 +1,36 @@
+.contenbusqueda{
+  position: absolute;
+  
+  width: 500px;
+  height: 150px;
+  top: 50px;
+  left: 180px;
+}
+
+.busqueda{
+  position: absolute;
+  width: 437px;
+  height: 70px;
+  left: 40px;
+  top: 40px;
+
+  background: #FFFFFF;
+  border: 1px solid #E4E4E4;
+  border-radius: 10px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+
+  color: #9B9B9B;
+
+}
+
+.btnbusqueda{
+  position: absolute;
+  left: 85%;
+  top: 42%;
+
+}
